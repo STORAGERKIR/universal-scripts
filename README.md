@@ -43,6 +43,3 @@
 - **Westover** (Place ID: 54865335) - Complete feature set
 - **Pacifico** (Place ID: 5232896677) - All enhancements
 
-## 📥 Installation
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/STORAGERKIR/universal-scripts/refs/heads/main/speedchangermain.lua"))()
