@@ -1,6 +1,5 @@
 # Universal Vehicle Script 🚗
 
-A powerful Roblox vehicle enhancement script with advanced controls and multi-game support.
 
 ## Features
 
